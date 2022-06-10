@@ -1,9 +1,9 @@
 # hello-world
 Data scientist toolbox coursera
-# Akira Kikuchi in Mapua 
+# As a student
 ## Competitive 
-My years in Mapua became competitive and steadfast. I always assured the best things happen in me but this midset damaged my social and emotional aspects. 
+I became competitive and steadfast. 
 ## Focused
-I only focued on my academic field. I felt tired but I did my best.
+I only focued on my academics. I felt tired but I did my best.
 ## Determined
 I want to have the best possible outcome so I did my best in the things I do.
